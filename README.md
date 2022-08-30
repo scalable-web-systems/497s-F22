@@ -1,7 +1,7 @@
-# COMPSCI 497s Material Template
+# COMPSCI 497S Scalable Web Systems
 
-This repository is a template for generating a repository to be used to place material for a particular semester.
+*FALL 2022*
 
-# Usage
-
-Create a new repository by clicking on the "Use as template" button.
+- [Syllabus](syllabus/syllabus.md)
+- [Schedule](syllabus/schedule.md)
+- [Important Dates](syllabus/dates.md)
