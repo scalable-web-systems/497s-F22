@@ -62,6 +62,10 @@ We use the following software platforms for this course:
 
 - **GitHub Classroom**: GitHub Classroom is also used to distribute and collect assignments. You will be using GitHub for all of your assignments. You will need to create a GitHub account if you do not already have one.
 
+- **Zoom**: Zoom will be used to provide remote synchronous access to class meetings.
+
+- **Echo360**: Echo360 will be used to provide remote asynchronous access to recorded class meetings.
+
 - **Other**: As part of this course you will be completing a group semester project. It will be necessary to communicate with others in your group. You will decide the best communication mechanism for your group (e.g., Slack, Discord, FaceTime, Facebook).
 
 ## Software Tools
@@ -116,13 +120,31 @@ The structure of this course is different from standard courses. It relies on th
 
 **If you do not participate in this course and/or its material, you will likely receive a lower grade than you might expect. I take this seriously, so you should as well.**
 
+## Teams
+
+This course requires the completion of a team project. You will be required to participate on a team of approximately 3 individuals. Teams will be self-organized at the start of the course. We will spend the first 2 weeks getting to know others in the class through group assignments. You are welcome to work with anyone in the class. If you know other people who are taking the course, feel free to work with them. If you do not know anyone in the class, then work with others nearby.
+
+We know that forming groups/teams can be an awkward process. However, this is part of the real-world and a goal in this course is to emulate a real-world setting. We will help you become acquainted with a group and we hope it leads to a fruitful experience.
+
 ## Course Structure
 
-- **Lecture**: we will meet twice a week for 75 minutes. The first 30-60 minutes will be a lecture with live coding and demonstrations. The remaining time will be for discussion and/or research. There may be some lecture meeting times where it will be purely team work. The lecture will cover the material for the week and the discussion/research will be for questions and discussion the material or for team study and research. The lecture will be recorded and posted on the course website.
+- **Lecture**: we will meet twice a week for 75 minutes. The first 20-45 minutes will be a lecture with live coding and demonstrations. The remaining time will be for discussion and/or research. There may be some lecture meeting times where it will be purely team work. The lecture will cover the material for the week and the discussion/research will be for questions and discussion the material or for team study and research. The lecture will be recorded and posted on the course website.
 
 The lectures will be recorded and uploaded to Echo360. We will also be using Zoom for the live lectures. If you are unable to make it to class in-person for any reason, you have the option of joining the lecture via Zoom. The Zoom link will be posted on the course website. If you are unable to make it to class because of a scheduling conflict (e.g., doctor's appointment, work, etc.), you are expected to review the recorded lectures and complete any related in-class activities.
 
 **We provide the recorded lectures for flexibility in your schedule and review purposes, however, please do not abuse this. We do expect you to regularly join in class and participate with the lectures.**
+
+## Hybrid/Split Class Structure
+
+This course requires a team project. You will be required to participate on a team with other students. After teams are organized, teams will be split into Tuesday and Thursday groups. The Tuesday group will join in-person on Tuesday; the Thursday group will join on Zoom. The Thursday group will join in-person on Thursday; the Tuesday group will join on Zoom.
+
+**Why do it this way?**
+
+1. Flexible learning is a way to provide alternate forms of learning environments that are different from traditional forms of learning. One way of doing this is to utilize technology to allow for remote access to a course.
+
+2. The world (especially software development) is now at a place where remote teams are a norm. As part of this course, we try to practice real-world technology, team interactions, and trends. Remote development is commonplace.
+
+3. This allows the instructor and course staff to interact with teams directly during a class meeting as there will be fewer teams present in the physical room.
 
 ## Access to Course Material
 
