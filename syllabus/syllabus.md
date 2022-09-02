@@ -24,6 +24,7 @@ You must have a strong background in the fundamentals of web programming. You sh
 - Client/Server Architecture
 - Single Page Applications (SPA)
 - Git and GitHub
+- Markdown
 
 In general, this course expects you to have a solid grasp of JavaScript programming, both in the browser and the server, and single-server full stack web development. We also expect that you are very familiar with Git and GitHub as we will use both extensively. We will begin the course with a brief review of these topics if you are a little rusty. However, if you are not familiar with these topics, you will likely struggle to keep up with the course material.
 
@@ -131,11 +132,15 @@ All the material for this course will be available on Moodle in a weekly format.
 
 The final course grade involves assignments that relate to discussion and notes of the material and a semester group project. The breakdown of assignments (some graded, some not) are:
 
-- **(40%) Homework**: individual or group activities that range from setting up various software components and/or platforms (e.g., git, GitHub, coding environment, docker, AWS/Azure) to programming assignments.
+- **(20%) Homework**: Individual or group activities that range from setting up various software components and/or platforms (e.g., git, GitHub, coding environment, docker, AWS/Azure) to programming assignments. These are often started in class.
 
-- **(40%) Project Milestones**: team-based activities that involve the construction of a scalable web system that your team will design and implement. This will range from a team GitHub repository setup to the construction of various micro-services and front-end UI components.
-  
-- **(20%) Project Presentation**: a live or recorded presentation of your team’s project and demonstration of a working prototype.
+- **(20%) Developer Notebook**: You will be required to maintain a developer notebook. This will be a Github repository used to record your own research work that you accomplish through out the semester. Each report will consist of a markdown file and possibly code exemplars that you used to explore the material. We will evaluate your notebook periodically and it will be used as part of the final grade assignment and adjustment.
+
+- **(30%) Participation**: This course requires your participation. This is especially important when working on a team with other people. Participation can take many forms, however, we need a mechanism to evaluate that participation. You will be required to complete several surveys and evaluation forms during the semester that records your independent work as well as the work you complete with your team. In addition to your own evaluation, you will be required to evaluate your team members. This will provide the course staff with a good understanding of your participation activities as well as those of your team members.
+
+- **(20%) Project Milestones**: Team-based activities that involve the construction of a scalable web system that your team will design and implement. This will range from a team GitHub repository setup to the construction of various micro-services and front-end UI components.
+
+- **(10%) Project Presentation**: A live or recorded presentation of your team’s project and demonstration of a working prototype.
 
 All grades will be accessible through the Moodle Gradebook and updated at the completion of grading each assessment.
 
@@ -150,6 +155,26 @@ The assignments in this course are often open-ended. This makes it difficult to 
 5. Course staff will comment directly on your GitHub repository.
 6. Grades will be placed in Moodle.
 7. You review your grades and comments. You have two days to request a regrade if there is something you feel was overlooked. We are human, so we can make mistakes. But, we also need to have a timeline. We will strictly follow this and deny any requests after 48 hours.
+
+## Self and Peer Evaluations
+
+Evaluations are a prevalent form of providing feedback in the real-world to managers and team members in the software industry. You will participate in three rounds of evaluations during the semester. Each round consists of two evaluations: you evaluate yourself and you evaluate your team members. These evaluations are valuable opportunities to reflect on your work and the work of your team members in this course.The data from these evaluations is very helpful feedback for the course staff and team members to make any changes that improve your effort and your team's effort.
+
+1. **Self-Evaluation**: you will evaluate your efforts in the course, what you have learned, what you haven't learned, your level or effort and participation, and what your target goals will be until the next evaluation round. This is a short Moodle questionnaire. Please be sure to write feedback in the comment field in addition to the rating questions as that is very useful information for the course staff. This data will only be shared amongst the course staff.
+
+2. **Peer-Evaluation**: You will evaluate yourself and your team members on the level and quality of your/their participation. Peer evaluations are done in the CATME system. A link will be provided on the Moodle site for this course. Some of the categories you will report on in the peer survey include:
+
+   - Contributing to the Team's Work
+   - Interacting with Teammates
+   - Expecting Quality
+   - Team Conflict
+   - Team Satisfaction
+   - Team Cohesiveness
+   - Psychological Safety
+
+You are required to complete BOTH of these evaluations. Because the data from these evaluations is time-critical, there are NO EXTENSIONS to the due dates of these evaluations. Your grade will be affected significantly if you fail to complete any of these evaluations, so make sure you note the due dates for these time-critical evaluations and schedule accordingly.
+
+Note that the peer-evaluation data will be seen by the course staff and team members but in anonymized form; your name will not be associated with the results. This data is important feedback - especially the comment field.
 
 ## Final Grades
 
