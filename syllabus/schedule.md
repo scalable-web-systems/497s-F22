@@ -89,17 +89,17 @@ Su Mo Tu We Th Fr Sa
 - No Class
 - No Discussion
 
-## Week 12 (11/27 - 12/3)
+## Week 12 Project Work (11/27 - 12/3)
 
 - Lecture: Project Work (Tu, 11/29)
 - Lecture: Project Work (Th, 12/1)
   
-## Week 13 (12/4 - 12/10)
+## Week 13 Project Work (12/4 - 12/10)
 
 - Lecture: Project Work (Tu, 12/6)
 - Lecture: Project Work (Th, 12/8)
 
-## Week 14 (12/11 - 12/17)
+## Week 14 Final Exams (12/11 - 12/17)
 
 - Reading Day (Tu, 12/13)
 - Final Exams (Wd, 12/14)
@@ -107,7 +107,7 @@ Su Mo Tu We Th Fr Sa
 - Final Exams (Fr, 12/16)
 - Reading Day (Sa, 12/17)
 
-## Week 15 (12/18 - 12/20)
+## Week 15 Final Exams (12/18 - 12/20)
 
 - Final Exams (Su, 12/18)
 - Final Exams (Mo, 12/19)
