@@ -238,17 +238,17 @@ As part of your submissions you will be required to grade your own work and just
 
 The estimated schedule for this course is as follows (subject to change):
 
-- Week 1 - Introduction and review of web technologies
-- Week 2 - Distributed systems, scalability, and the JS event loop (teams are formed)
+- Week 1 - Introduction, Single-Threaded JS, and Node.js Overview
+- Week 2 - Basic Micro-Services
 - Week 3 - Protocols
 - Week 4 - Scaling
-- Week 5 - Reverse Proxies (team project work begins)
-- Week 6 - Observability
-- Week 7 - Containers
-- Week 8 - Deployments
-- Week 9 - Resiliency
-- Week 10 - Distributed Primitives
-- Week 11 - Security
+- Week 5 - Containers
+- Week 6 - Container Orchestration
+- Week 7 - Scalable UI
+- Week 8 - External Caching
+- Week 9 - Scalable Languages
+- Week 10 - Project Work / Continuous Integration and Testing
+- Week 11 - Project Work / Security
 - Week 12 - Project Work
 - Week 13 - Project Work and Presentation
 
