@@ -87,7 +87,6 @@ Su Mo Tu We Th Fr Sa
 ## Thanksgiving Recess
 
 - No Class
-- No Discussion
 
 ## Week 12 Project Work (11/27 - 12/3)
 
