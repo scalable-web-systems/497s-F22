@@ -239,12 +239,12 @@ As part of your submissions you will be required to grade your own work and just
 The estimated schedule for this course is as follows (subject to change):
 
 - Week 1 - Introduction and review of web technologies
-- Week 2 - Distributed systems, scalability, and the JS event loop
-- Week 3 - Protocols (teams are formed)
+- Week 2 - Distributed systems, scalability, and the JS event loop (teams are formed)
+- Week 3 - Protocols
 - Week 4 - Scaling
-- Week 5 - Reverse Proxies
+- Week 5 - Reverse Proxies (team project work begins)
 - Week 6 - Observability
-- Week 7 - Containers (team project work begins)
+- Week 7 - Containers
 - Week 8 - Deployments
 - Week 9 - Resiliency
 - Week 10 - Distributed Primitives
