@@ -128,7 +128,7 @@ We know that forming groups/teams can be an awkward process. However, this is pa
 
 ## Course Structure
 
-- **Lecture**: we will meet twice a week for 75 minutes. The first 20-45 minutes will be a lecture with live coding and demonstrations. The remaining time will be for discussion and/or research. There may be some lecture meeting times where it will be purely team work. The lecture will cover the material for the week and the discussion/research will be for questions and discussion the material or for team study and research. The lecture will be recorded and posted on the course website.
+- **Lecture**: we will meet twice a week for 75 minutes. The first 20-60 minutes will be a lecture with live coding and demonstrations. The remaining time will be for discussion and/or research. There may be some lecture meeting times where it will be purely team work. The lecture will cover the material for the week and the discussion/research will be for questions and discussion the material or for team study and research. The lecture will be recorded and posted on the course website.
 
 The lectures will be recorded and uploaded to Echo360. We will also be using Zoom for the live lectures. If you are unable to make it to class in-person for any reason, you have the option of joining the lecture via Zoom. The Zoom link will be posted on the course website. If you are unable to make it to class because of a scheduling conflict (e.g., doctor's appointment, work, etc.), you are expected to review the recorded lectures and complete any related in-class activities.
 
