@@ -1,0 +1,14 @@
+{
+  "recommendations": [
+    "dbaeumer.vscode-eslint",
+    "rvest.vs-code-prettier-eslint",
+    "rangav.vscode-thunder-client",
+    "ecmel.vscode-html-css",
+    "ritwickdey.liveserver",
+    "yzhang.markdown-all-in-one",
+    "shd101wyy.markdown-preview-enhanced",
+    "christian-kohler.path-intellisense",
+    "esbenp.prettier-vscode",
+    "Gruntfuggly.todo-tree"
+  ]
+}
