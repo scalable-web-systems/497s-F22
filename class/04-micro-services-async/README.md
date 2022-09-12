@@ -3,8 +3,8 @@
 ## Resources
 
 - [Synchronous vs. asynchronous microservices communication patterns](https://www.theserverside.com/answer/Synchronous-vs-asynchronous-microservices-communication-patterns). A short article describing synchronous, asynchronous, and hybrid communication.
-- [Microservices Architecture: Asynchronous Communication is Better](https://www.sysaid.com/blog/sysaid-tech/microservices-architecture-asynchronouscommunication-better)
-- [Reactive Microservices: Why Asynchronous Communication Matters](https://www.lightbend.com/microservices/reactive-microservices-why-asynchronous-communication)
+- [Microservices Architecture: Asynchronous Communication is Better](https://www.sysaid.com/blog/sysaid-tech/microservices-architecture-asynchronouscommunication-better). Covers pros and cons of asynchronous communication in micro-service based architectures.
+- [Reactive Microservices: Why Asynchronous Communication Matters](https://www.lightbend.com/microservices/reactive-microservices-why-asynchronous-communication). A very short article arguing why asynchronous communication is important.
 
 ## VSCode Extensions
 
