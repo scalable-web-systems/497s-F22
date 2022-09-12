@@ -38,42 +38,37 @@ Su Mo Tu We Th Fr Sa
 *There may be some adjustment this week because of the short classes that occurred last week.*
 
 - 03 Basic Micro-Services (Tu, 9/13)
-- 04 Micro-Services and Async Communication (Th, 9/15)
-
-- **Homework 1 (Assigned: Tu, 9/13)**
 - **Team Formation (Assigned: Tu, 9/13)**
+- 04 Micro-Services and Async Communication (Th, 9/15)
+- **Homework 1 (Assigned: Th, 9/15)**
 
 ## Week 03 Extending a Service and Containerization (9/18 - 9/24)
 
 - 05 Extending a Micro-Service System (Tu, 9/20)
 - 06 Docker Basics (Th, 9/22)
-
-- **Team Formation (Due: Tu, 9/20)**
+- **Team Formation (Due: Th, 9/22)**
 - **Project Milestone #1: Design (Assigned: Th, 9/22)**
   
 ## Week 04 Containerization (9/25 - 10/1)
 
 - 07 Docker Basics (Tu, 9/27)
 - 08 Docker Basics (Th, 9/29)
-
-- **Homework 1 (Due: Tu, 9/27)**
-- **Homework 2 (Assigned: Tu, 9/27)**
+- **Homework 1 (Due: Th, 9/29)**
+- **Homework 2 (Assigned: Th, 9/29)**
   
 ## Week 05 Containerization (10/2 - 10/8)
 
 - 09 Docker Basics (Tu, 10/4)
 - 10 Running Services with Docker (Th, 10/6)
-
-- **Project Milestone #1 Design (Due: Tu, 10/4)**
-- **Project Milestone #2 Alpha Release (Assigned: Tu, 10/4)**
+- **Project Milestone #1 Design (Due: Th, 10/6)**
+- **Project Milestone #2 Alpha Release (Assigned: Th, 10/6)**
   
 ## Week 06 Container Orchestration (10/9 - 10/15)
 
 - 11 Service Orchestration with Kubernetes  (Tu, 10/11)
 - 12 Service Orchestration with Kubernetes (Th, 10/13)
-
-- **Homework 2 (Due: Tu, 10/11)**
-- **Homework 3 (Assigned: Tu, 10/11)**
+- **Homework 2 (Due: Th, 10/13)**
+- **Homework 3 (Assigned: Th, 10/13)**
 
 ## Week 07 Multi-Service Architecture (10/16 - 10/22)
 
@@ -84,16 +79,14 @@ Su Mo Tu We Th Fr Sa
 
 - 15 Multi-Service Architecture (Tu, 10/25)
 - 16 Multi-Service Architecture (Th, 10/27)
-
-- **Homework 3 (Due: Tu, 10/25)**
+- **Homework 3 (Due: Th, 10/27)**
   
 ## Week 09 Multi-Service Architecture (10/30 - 11/5)
 
 - 17 Multi-Service Architecture (Tu, 11/1)
 - 18 Multi-Service Architecture (Th, 11/3)
-
-- **Project Milestone #2 Alpha Release (Due: Tu, 11/1)**
-- **Project Milestone #3 Beta Release (Assigned: Tu, 11/1)**
+- **Project Milestone #2 Alpha Release (Due: Th, 11/3)**
+- **Project Milestone #3 Beta Release (Assigned: Th, 11/3)**
   
 ## Week 10 Project Work (11/6 - 11/12)
 
@@ -121,7 +114,7 @@ Su Mo Tu We Th Fr Sa
 
 ## Week 14 Final Exams (12/11 - 12/17)
 
-- **Developer Notebook (Due: Th, 12/12)**
+- **Developer Notebook (Due: Mo, 12/12)**
 - **Project Milestone #3 Beta Release (Due: Mo, 12/12)**
 - Reading Day (Tu, 12/13)
 - Final Exams (Wd, 12/14)
