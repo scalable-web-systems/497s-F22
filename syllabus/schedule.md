@@ -42,10 +42,10 @@ Su Mo Tu We Th Fr Sa
 - 04 Micro-Services and Async Communication (Th, 9/15)
 - **Homework 1 (Assigned: Th, 9/15)**
 
-## Week 03 Extending a Service and Containerization (9/18 - 9/24)
+## Week 03 Implementing Micro-Services (9/18 - 9/24)
 
-- 05 Extending a Micro-Service System (Tu, 9/20)
-- 06 Docker Basics (Th, 9/22)
+- 05 Implementing Micro-Services (Tu, 9/20)
+- 06 Implementing Micro-Services (Th, 9/22)
 - **Team Formation (Due: Th, 9/22)**
 - **Project Milestone #1: Design (Assigned: Th, 9/22)**
   
