@@ -1,4 +1,4 @@
-# 02 Micro-Service Fundamentals
+# 03 Basic Micro-Services
 
 ## Resources
 
@@ -12,8 +12,8 @@
 
 ## VSCode Extensions
 
-- [Draw.io Integration](https://marketplace.visualstudio.com/items?itemName=hediet.vscode-drawio): To view the drawio diagram files contained in this material you should install the DrawIO extension for VSCode.
+- [Draw.io Integration](https://marketplace.visualstudio.com/items?itemName=hediet.vscode-drawio). This extension allows you to view and create draw.io diagrams. We will be using these in some classes and you will find it useful for designing systems.
 
 ## References
 
-- [Stephen Grider](https://www.linkedin.com/in/stephengrider/): Designed and created some or or all parts of the diagrams used in the material for this class. https://github.com/StephenGrider/microservices-casts. This course may reference and or use their code from https://github.com/webmakaka/Microservices-with-Node-JS-and-React. 
+- [Stephen Grider](https://www.linkedin.com/in/stephengrider/): Designed and created some or or all parts of the diagrams used in the material for this class. https://github.com/StephenGrider/microservices-casts. This course may reference and or use their code from https://github.com/webmakaka/Microservices-with-Node-JS-and-React.
