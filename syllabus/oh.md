@@ -24,7 +24,7 @@ We are looking forward to talking with you in office hours!
 
 ## Monday
 
-- No office hours offered currently at this time.
+- Roshan Praveen Shetty, he/him, 10:00AM - 11:00 AM - https://umass-amherst.zoom.us/j/99976647223
 
 ## Tuesday
 
@@ -33,6 +33,7 @@ We are looking forward to talking with you in office hours!
 ## Wednesday
 
 - Tim Richards, he/him, 9:00 AM - 10:00 AM, https://umass-amherst.zoom.us/s/2293213784
+- Roshan Praveen Shetty, he/him, 10:00AM - 11:00 AM - https://umass-amherst.zoom.us/j/99976647223 
 
 ## Thursday
 
