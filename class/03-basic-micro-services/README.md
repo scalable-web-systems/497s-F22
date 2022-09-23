@@ -7,7 +7,7 @@
 - [What are Microservices?](https://cutt.ly/HCnNFrB) (video). A nice overview of the difference between monoliths and micro-services and the platforms they run on.
 - [Monolithic vs microservice architecture: Which is best?](https://cutt.ly/jCnN9yB) (video). A short article from a Digital Ocean perspective.
 
-## VSCode Extensions
+## VSCode Recommended Extensions
 
 - [Draw.io Integration](https://marketplace.visualstudio.com/items?itemName=hediet.vscode-drawio). This extension allows you to view and create draw.io diagrams. We will be using these in some classes and you will find it useful for designing systems.
 

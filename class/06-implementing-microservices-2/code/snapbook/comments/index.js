@@ -1,11 +1,13 @@
 import express from 'express';
 import logger from 'morgan';
 import { randomBytes } from 'crypto';
+import cors from 'cors';
 
 const app = express();
 
 app.use(logger('dev'));
 app.use(express.json());
+app.use(cors());
 
 const commentsByPostId = {};
 
