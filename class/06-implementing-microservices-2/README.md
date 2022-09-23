@@ -9,6 +9,10 @@
   off the ground.
 - [Bootstrap](https://getbootstrap.com)
 
+## VSCode Recommended Extensions
+
+- [React Snippets](https://marketplace.visualstudio.com/items?itemName=burkeholland.simple-react-snippets). A nice addition to easily general React boilerplate code.
+
 ## References
 
 - [Stephen Grider](https://www.linkedin.com/in/stephengrider/):
