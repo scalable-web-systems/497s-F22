@@ -35,8 +35,6 @@ Su Mo Tu We Th Fr Sa
 
 ## Week 02 Basic Micro-Services (9/11 - 9/17)
 
-*There may be some adjustment this week because of the short classes that occurred last week.*
-
 - 03 Basic Micro-Services (Tu, 9/13)
 - **Team Formation (Assigned: Tu, 9/13)**
 - 04 Micro-Services and Async Communication (Th, 9/15)
@@ -44,42 +42,43 @@ Su Mo Tu We Th Fr Sa
 
 ## Week 03 Implementing Micro-Services (9/18 - 9/24)
 
-- 05 Implementing Micro-Services (Tu, 9/20)
-- 06 Implementing Micro-Services (Th, 9/22)
+- 05 Implementing Micro-Services 1 (Tu, 9/20)
+- 06 Implementing Micro-Services 2 (Th, 9/22)
 - **Team Formation (Due: Th, 9/22)**
-- **Project Milestone #1: Design (Assigned: Th, 9/22)**
   
-## Week 04 Containerization (9/25 - 10/1)
+## Week 04 Implementing Micro-Services (9/25 - 10/1)
 
-- 07 Docker Basics (Tu, 9/27)
-- 08 Docker Basics (Th, 9/29)
+- 07 Implementing Micro-Services 3 (Tu, 9/27)
+- 08 Implementing Micro-Services 4 (Th, 9/29)
 - **Homework 1 (Due: Th, 9/29)**
 - **Homework 2 (Assigned: Th, 9/29)**
+- **Project Milestone #1: Design (Assigned: Wd, 9/28)**
   
 ## Week 05 Containerization (10/2 - 10/8)
 
+*The material going forward is pending depending on how far we get with the previous week.*
+
 - 09 Docker Basics (Tu, 10/4)
-- 10 Running Services with Docker (Th, 10/6)
-- **Project Milestone #1 Design (Due: Th, 10/6)**
-- **Project Milestone #2 Alpha Release (Assigned: Th, 10/6)**
+- 10 Docker Basics (Th, 10/6)
   
 ## Week 06 Container Orchestration (10/9 - 10/15)
 
-- 11 Service Orchestration with Kubernetes  (Tu, 10/11)
-- 12 Service Orchestration with Kubernetes (Th, 10/13)
-- **Homework 2 (Due: Th, 10/13)**
-- **Homework 3 (Assigned: Th, 10/13)**
+- 11 Docker Basics (Tu, 10/11)
+- 12 Docker Basics (Th, 10/13)
+- **Project Milestone #1 Design (Due: Th, 10/13)**
+- **Project Milestone #2 Alpha Release (Assigned: Th, 10/6)**
 
 ## Week 07 Multi-Service Architecture (10/16 - 10/22)
 
-- 13 Multi-Service Architecture (Tu, 10/18)
+- 13 Running Services with Docker (Tu, 10/18)
 - 14 No Class (Th, 10/20)
+- **Homework 2 (Due: Th, 10/20)**
+- **Homework 3 (Assigned: Th, 10/20)**
   
 ## Week 08 Multi-Service Architecture (10/23 - 10/29)
 
-- 15 Multi-Service Architecture (Tu, 10/25)
+- 15 Service Orchestration with Kubernetes (Tu, 10/25)
 - 16 Multi-Service Architecture (Th, 10/27)
-- **Homework 3 (Due: Th, 10/27)**
   
 ## Week 09 Multi-Service Architecture (10/30 - 11/5)
 
@@ -92,6 +91,7 @@ Su Mo Tu We Th Fr Sa
 
 - 19 Project Work / Memcached (Tu, 11/8)
 - 20 Project Work / Redis (Th, 11/10)
+- **Homework 3 (Due: Th, 11/10)**
   
 ## Week 11 Project Work (11/13 - 11/19)
 
