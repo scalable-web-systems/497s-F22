@@ -1,6 +1,6 @@
-# 06 Implementing Micro-Services 2
+# 07 Implementing Micro-Services 3
 
-See the [notes](code/snapbook/02-client-service.md) for this lecture.
+See the [notes](code/snapbook/03-event-bus.md) for this lecture.
 
 ## Resources
 
