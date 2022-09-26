@@ -1,6 +1,6 @@
 # 07 TODO
 
-We will be focus on the following in this class:
+We will focus on the following in this class:
 
 - Need to finish off the remaining parts of the `client` service to list out comments.
 - Need to implement a synchronous version of the system to consolidate communication of posts and comments into a single back-end request.
