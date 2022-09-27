@@ -2,6 +2,7 @@ import express from 'express';
 import logger from 'morgan';
 import { randomBytes } from 'crypto';
 import cors from 'cors';
+import axios from 'axios';
 
 const app = express();
 
@@ -15,7 +16,7 @@ app.get('/posts', (req, res) => {
   res.send(posts);
 });
 
-app.post('/posts', (req, res) => {
+app.post('/posts', async (req, res) => {
   const id = randomBytes(4).toString('hex');
   const { title } = req.body;
 
@@ -23,6 +24,13 @@ app.post('/posts', (req, res) => {
     id,
     title,
   };
+
+  await axios.post('http://localhost:4005/events', {
+    type: 'PostCreated',
+    data: {
+      id, title
+    }
+  });
 
   res.status(201).send(posts[id]);
 });
