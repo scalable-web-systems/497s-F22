@@ -1,4 +1,4 @@
-# 07 TODO
+# 08 TODO
 
 Last time, we created a synchronous version of the SnapBook application. We then created a new version of the application that was asynchronous using an event bus. Today, we are going to finish that off with a new *query* service.
 
