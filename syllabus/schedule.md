@@ -51,8 +51,8 @@ Su Mo Tu We Th Fr Sa
 - 07 Implementing Micro-Services 3 (Tu, 9/27)
 - 08 Implementing Micro-Services 4 (Th, 9/29)
 - **Homework 1 (Due: Th, 9/29)**
-- **Homework 2 (Assigned: Th, 9/29)**
-- **Project Milestone #1: Design (Assigned: Wd, 9/28)**
+- **Homework 2 (Assigned: Fr, 9/30)**
+- **Project Milestone #1: Architecture Design (Assigned: Fr, 9/30)**
   
 ## Week 05 Containerization (10/2 - 10/8)
 
