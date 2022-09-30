@@ -24,7 +24,7 @@ We are looking forward to talking with you in office hours!
 
 ## Monday
 - Christopher Gomez, he/him, 9:00 AM - 10:00 AM.  https://umass-amherst.zoom.us/j/96642732006
-- Roshan Praveen Shetty, he/him, 10:00AM - 11:00 AM - https://umass-amherst.zoom.us/j/99976647223
+- Roshan Praveen Shetty, he/him, 10:00AM - 11:00 AM - https://umass-amherst.zoom.us/j/99488009883
 
 ## Tuesday
 
@@ -33,7 +33,6 @@ We are looking forward to talking with you in office hours!
 ## Wednesday
 
 - Tim Richards, he/him, 9:00 AM - 10:00 AM, https://umass-amherst.zoom.us/s/2293213784
-- Roshan Praveen Shetty, he/him, 10:00AM - 11:00 AM - https://umass-amherst.zoom.us/j/99976647223 
 
 ## Thursday
 
@@ -41,6 +40,7 @@ We are looking forward to talking with you in office hours!
 
 ## Friday
 - Christopher Gomez, he/him, 9:00 AM - 10:00 AM.  https://umass-amherst.zoom.us/j/96642732006
+- Roshan Praveen Shetty, he/him - 10:00AM - 11:00AM - https://umass-amherst.zoom.us/j/99488009883
 - Rohan Bapat, 11:00 AM - 12:00 PM, https://umass-amherst.zoom.us/j/97166745987?pwd=OWx3bmZyd0EySWprNDYzQTBBQVh2dz09
 
 ## Saturday
