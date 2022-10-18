@@ -283,26 +283,3 @@ browser in our local environment.
 ```bash
 docker run --net=sbnet -p 3000:3000 --name query timdrichards/query:0.0.1
 ```
-
-## How to Make React Re-Render Components
-
-At this point we have had to manually re-render components by
-reloading the browser window. This is rather tedious an doesn't really
-work like a real application. We want our application to re-render
-when a post is made and when a comment is made. To do this, we need to
-make some adjustments to our UI architecture.
-
-The adjustments we need to make are to *lift* the state to components
-in which we can supply child components shared state that will allow
-us to set that state to invoke a re-rendering in that component. Yes,
-this sounds a bit confusing, so let's get to the changes.
-
-The first thing we are doing to do is to move the state of the
-`PostList`, namely the `posts` state upward into its parent component
-which is `App` and then supply that state as a *prop* variable back
-into the `PostList` component. Here are the changes to `App` and
-`PostList`: 
-
-```jsx
-
-```
